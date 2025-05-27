@@ -15,6 +15,8 @@ O projeto foi desenvolvido como parte do Trabalho A3 da disciplina, baseado no c
 ---
 
 ## Como executar
+include("cadeia_markov.jl")
+
 
 ### Requisitos
 
