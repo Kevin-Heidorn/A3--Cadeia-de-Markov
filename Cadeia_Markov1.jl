@@ -8,6 +8,7 @@ function simular_markov(estado_inicial, P, passos)
 end
 
 # Pergunta o número de estados
+println("simulaçãoCadeia de Markov - Futebol")
 print("Digite o número de estados (N): ")
 N = parse(Int, readline())
 
